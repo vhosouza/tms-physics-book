@@ -15,7 +15,7 @@ $$
 $$
 
 $$
-\nabla\cdot\mathcal{B} \quad = \quad 0 \quad \text{(Gauss' Law)}
+\nabla\cdot\mathcal{B} \quad = \quad 0 \quad \text{(Gauss's Law)}
 $$
 
 $$
