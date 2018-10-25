@@ -5,16 +5,16 @@ We wrote this book to provide a general overview of the physical, mathematical a
 The content of this book is a result of many discussions and studies we had, and still have, in our TMS physics study group. The members are \(in alphabetical order\):
 
 * [Aino Tervo \(Doctoral candidate\)](https://people.aalto.fi/aino.tervo)
-* [Dogu Baran Aydogan \(Postdoctoral researcher\)](https://people.aalto.fi/baran.aydogan)
 * [Juuso Korhonen \(Postdoctoral researcher\)](https://people.aalto.fi/juuso.korhonen)
-* [Mikko Nyrhinen \(Doctoral candidate\)](https://people.aalto.fi/mikko.nyrhinen)
 * [Victor Hugo Souza \(Postdoctoral researcher\)](https://people.aalto.fi/victor.souza)
 
 We received contributions and were motivated from brilliant people in our work environment, and we would like to acknowledge them \(in alphabetical order\):
 
+* [Dogu Baran Aydogan \(Postdoctoral researcher\)](https://people.aalto.fi/baran.aydogan)
 * [Jaakko Nieminen \(Academy Research Fellow\)](https://people.aalto.fi/jaakko.nieminen)
 * [Prof. Jukka Sarvas \(Professor Emeritus\)](https://people.aalto.fi/jukka.sarvas)
 * [Matti Stenroos \(Senior University Lecturer\)](https://people.aalto.fi/matti.stenroos)
+* [Mikko Nyrhinen \(Doctoral candidate\)](https://people.aalto.fi/mikko.nyrhinen)
 * [Prof. Risto Ilmoniemi \(Professor and leader of the TMS group in NBE/Aalto University\)](https://people.aalto.fi/risto.ilmoniemi)
 
 **October 25, 2018 \(Victor Hugo Souza @ Aalto University\)**
