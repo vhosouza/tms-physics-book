@@ -7,18 +7,19 @@ description: The background for magnetic stimulation
 Everything starts with the four Maxwell's equations:
 
 $$
-\frac{ \partial \mathcal{D}}{\partial t} \quad = \quad \nabla\times\mathcal{H} \quad \text{(Faraday's Law)}
+\bf{\nabla}\times\bf{B} = \frac{ \partial \bf{E}}{\partial t} \qquad \text{(Faraday's Law)}
 $$
 
 $$
-\frac{\partial\mathcal{B}}{\partial t} \quad = \quad -\nabla\times\mathcal{E} \quad \text{(Ampère's Law)}
+\bf{\nabla}\times\bf{E} = - \frac{\partial \bf{B}}{\partial t} \qquad \text{(Ampère's Law)}
 $$
 
 $$
-\nabla\cdot\mathcal{B} \quad = \quad 0 \quad \text{(Gauss's Law)}
+\bf{\nabla}\cdot\bf{B} = 0 \qquad \text{(Gauss's Law)}
 $$
 
 $$
-\nabla\cdot\mathcal{D} \quad = \quad 0  \quad \text{(Colomb's Law)}
+\bf{\nabla}\cdot\bf{E} = \frac{\rho}{{\varepsilon}_0} \qquad \text{(Colomb's Law)}
 $$
 
+To know the effects of TMS we have to compute the induced electric field in the brain tissue. Consider an electric current  I=2 changing over time. 
