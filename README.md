@@ -1,10 +1,3 @@
----
-description: >-
-  This book is a compilation of the studies we had as part of our activities in
-  the transcranial magnetic stimulation (TMS) group at Aalto University,
-  Finland.
----
-
 # Preface
 
 We wrote this book to provide a general overview of the physical, mathematical and computational concepts underlying the TMS activation of the brain. There is a vast literature on methods and applications of TMS, however the mathematical notation, nomenclature and required advanced prior-knowledge make it very hard for new-comers, or even long-time users, to study the basics of TMS. Moreover, understanding the underlying mechanism requires a combined knowledge of advanced electromagnetism, integral and differential calculus, and numerical methods. Our study group aimed at building up a material that allows one to walk through a straightforward workflow in many basic \(and some advanced\) concepts related to TMS. We hope that students and researchers benefit from this material and are able to understand better the advantages and limitations of the technique, and thus to come up with solutions and ideas to answer big questions in the research and clinical environment.

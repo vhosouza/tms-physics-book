@@ -4,7 +4,7 @@ description: The background for magnetic stimulation
 
 # Electromagnetism
 
-Everything starts with Maxwell's equations: 
+Everything starts with the four Maxwell's equations:
 
 $$
 \frac{ \partial \mathcal{D}}{\partial t} \quad = \quad \nabla\times\mathcal{H} \quad \text{(Faraday's Law)}
@@ -21,6 +21,4 @@ $$
 $$
 \nabla\cdot\mathcal{D} \quad = \quad 0  \quad \text{(Colomb's Law)}
 $$
-
-
 
