@@ -22,7 +22,7 @@ $$
 \bf{\nabla}\cdot\bf{E} = \frac{\rho}{{\varepsilon_0}} \qquad \text{(Colomb's Law)}
 $$
 
-To know the effects of TMS we have to compute the induced electric field in the brain tissue. Consider an electric current $I\(t\)$ changing over time and running in a coil away in free space. The changing current will generate a magnetic field that also changes in time. According to Faraday's law of induction, the changing magnetic field will induce an associated primary electric field \($\bf{E}\_1$\) in space.
+To know the effects of TMS we have to compute the induced electric field in the brain tissue. Consider an electric current $I\(t\)$ changing over time and running in a coil away in free space. The changing current will generate a magnetic field that also changes in time. According to Faraday's law of induction, the changing magnetic field will induce an associated primary electric field $$\bf{E}_1$$ in space.
 
 However, as we insert a conducting medium close to the coil, the primary $\bf{E}\_1$ will cause a separation of charges in the conducting medium that will in turn generate a secondary electric field \($\bf{E}\_2$\). Therefore, if we consider that the brain is a conductive and is close enough to the stimulation coil, the total electric field induced in the tissue is the sum of the primary and secondary electric fields.
 
