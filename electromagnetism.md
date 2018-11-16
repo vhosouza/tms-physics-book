@@ -105,10 +105,10 @@ $$
 The solution than is the exponential function of the form:
 
 $$
-\rho(t) = e^{-\omega_0 t}
+\rho(t) = \rho_0 e^{-\omega_0 t}
 $$
 
-And from that follows:
+The $$\omega_0$$ is the characteristic frequency which comes from the solution of any partial derivative over time like the one above, leading to a characteristic time (or time constant) $$\tau$$. The inverse of $$\tau$$ defines the characteristic frequency $$\omega_0$$ which for this application we define following the properties of the the conductor material (the brain):
 
 $$
 \omega_0 \equiv \frac{\sigma}{\varepsilon_0}
@@ -164,7 +164,7 @@ $$
 \nabla^2V = 0 \qquad \text{Laplace's equation}
 $$
 
-For both cases we have possible ways to solve for the potential and then get to the secondary electric field $$\bf{E}_2$$.
+For both cases we have possible ways to solve for the potential and then get to the secondary electric field $$\bf{E}_2$$. Note that $$\bf{E}_1$$ and $$\bf{E}_2$$ happen at the same time, so it is possible to have a charge separation leading to the existence of $$\bf{E}_2$$.with no charge accumulation over time.
 
 Another parameter to consider in the quasi-static approximation is the skin depth $$\delta$$ . The skin depth is the amount in which the electric field decays with the depth of the conductor by a factor of $$1/e$$ . This definition can be found in Chapter 9.4 in Griffiths Introduction to Electrodynamics where it deals with electromagnetic waves in conductors (4th edition page 417). In our case the diameter $$D$$ of the head is much bigger than the skin depth. Consider the two Maxwell's Equations:
 $$
@@ -191,7 +191,7 @@ where $$\tilde{k}$$ is the complex wave number written as:
 $$
 \tilde{k}^2=\mu\epsilon\omega^2 + i\mu\sigma\omega
 $$
-By taking the square root:
+Be careful, the $$\omega$$ in this equation has nothing to do with $$\omega_0$$ presented above for the charge density $$\rho_0$$ solution. By taking the square root:
 $$
 \tilde{k}=k + i\kappa
 $$
