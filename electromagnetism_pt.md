@@ -1,8 +1,4 @@
----
-description: Princípios físicos para a estimulação magnética transcraniana (EMT)
----
-
-# Princípios de Eletromagnetismo aplicado à EMT
+# Princípios de Eletromagnetismo aplicados à Estimulação Magnética Transcraniana (EMT)
 
 Tudo começa com as quatro equações de Maxwell:
 
