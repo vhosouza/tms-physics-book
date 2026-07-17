@@ -167,6 +167,7 @@ $$
 For both cases we have possible ways to solve for the potential and then get to the secondary electric field $$\bf{E}_2$$. Note that $$\bf{E}_1$$ and $$\bf{E}_2$$ happen at the same time, so it is possible to have a charge separation leading to the existence of $$\bf{E}_2$$.with no charge accumulation over time.
 
 Another parameter to consider in the quasi-static approximation is the skin depth $$\delta$$ . The skin depth is the amount in which the electric field decays with the depth of the conductor by a factor of $$1/e$$ . This definition can be found in Chapter 9.4 in Griffiths Introduction to Electrodynamics where it deals with electromagnetic waves in conductors (4th edition page 417). In our case the diameter $$D$$ of the head is much bigger than the skin depth. Consider the two Maxwell's Equations:
+
 $$
 \bf{\nabla}\times\bf{E} = - \frac{\partial \bf{B}}{\partial t} \qquad \text{(i)}
 $$
