@@ -1,6 +1,6 @@
 # Sumário
 
 * [Prefácio](README.md)
-* [Electromagnetism](electromagnetism_pt.md)
+* [Eletromagnetismo da EMT](electromagnetism_pt.md)
 * [Referências](references.md)
 
