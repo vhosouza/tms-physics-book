@@ -1,8 +1,8 @@
 ---
-description: A base para a estimulação magnética
+description: Princípios físicos para a estimulação magnética transcraniana (EMT)
 ---
 
-# Eletromagnetismo
+# Princípios de Eletromagnetismo aplicado à EMT
 
 Tudo começa com as quatro equações de Maxwell:
 
@@ -35,8 +35,7 @@ Para calcular o campo elétrico total no cérebro, podemos calcular separadament
 Para a aproximação quase estática, consideramos:
 
 1. Não há acúmulo de cargas;
-2. Para a distância dada entre a bobina e a cabeça, não há tempo retardado; em outras palavras, não há diferença de fase entre os campos magnético e elétrico;
-3. Outros motivos que Aino conhece.
+2. Para a distância dada entre a bobina e a cabeça, não há tempo retardado; em outras palavras, não há diferença de fase entre os campos magnético e elétrico.
 
 Também separamos em duas partes as soluções de $$\bf{E}_1$$ e $$\bf{E}_2$$. Primeiro, para $$\bf{E}_1$$, usamos a lei de Faraday, com a definição do potencial vetor magnético:
 

@@ -1,21 +1,24 @@
-# Preface
+# Prefácio
 
-We wrote this book to provide a general overview of the physical, mathematical and computational concepts underlying the TMS activation of the brain. There is a vast literature on methods and applications of TMS, however the mathematical notation, nomenclature and required advanced prior-knowledge make it very hard for new-comers, or even long-time users, to study the basics of TMS. Moreover, understanding the underlying mechanism requires a combined knowledge of advanced electromagnetism, integral and differential calculus, and numerical methods. Our study group aimed at building up a material that allows one to walk through a straightforward workflow in many basic \(and some advanced\) concepts related to TMS. We hope that students and researchers benefit from this material and are able to understand better the advantages and limitations of the technique, and thus to come up with solutions and ideas to answer big questions in the research and clinical environment.
+Este livro foi preparado como material suplementar para a disciplina de Introdução à Instrumentação Biomédica integrante do curso de Bacharelado em Física Médica no Departemento de Física/FFCLRP/USP.
 
-The content of this book is a result of many discussions and studies we had, and still have, in our TMS physics study group. The members are \(in alphabetical order\):
+Este documento fornece uma visão geral dos conceitos físicos, matemáticos e computacionais que fundamentam a ativação cerebral por EMT (Estimulação Magnética Transcraniana). Existe uma vasta literatura sobre métodos e aplicações da EMT; no entanto, a notação matemática, a nomenclatura e o conhecimento prévio avançado necessário dificultam o estudo dos fundamentos da EMT, mesmo para iniciantes ou usuários experientes. Além disso, a compreensão do mecanismo subjacente exige um conhecimento combinado de eletromagnetismo avançado, cálculo integral e diferencial e métodos numéricos.
 
-* [Aino Tervo \(Doctoral candidate\)](https://people.aalto.fi/aino.tervo)
-* [Juuso Korhonen \(Postdoctoral researcher\)](https://people.aalto.fi/juuso.korhonen)
-* [Victor Hugo Souza \(Postdoctoral researcher\)](https://people.aalto.fi/victor.souza)
+A disciplina de Introdução à Instrumentação Biomédica tem como objetivo desenvolver um material que permita compreender os conceitos básicos (e alguns avançados) de eletromagnetismo relacionados à EMT. Espera-se que os alunos se beneficiem deste material e consigam compreender melhor as vantagens e limitações da técnica, e assim, desenvolver soluções e ideias para responder à questões fundamentais à inovação tecnológica e clínica.
 
-We received contributions and were motivated from brilliant people in our work environment, and we would like to acknowledge them \(in alphabetical order\):
+Docente responsáveL: 
 
-* [Dogu Baran Aydogan \(Postdoctoral researcher\)](https://people.aalto.fi/baran.aydogan)
-* [Jaakko Nieminen \(Academy Research Fellow\)](https://people.aalto.fi/jaakko.nieminen)
-* [Prof. Jukka Sarvas \(Professor Emeritus\)](https://people.aalto.fi/jukka.sarvas)
-* [Matti Stenroos \(Senior University Lecturer\)](https://people.aalto.fi/matti.stenroos)
-* [Mikko Nyrhinen \(Doctoral candidate\)](https://people.aalto.fi/mikko.nyrhinen)
-* [Prof. Risto Ilmoniemi \(Professor and leader of the TMS group in NBE/Aalto University\)](https://people.aalto.fi/risto.ilmoniemi)
+* [Victor Souza (Universidade de São Paulo, Brasil)](https://orcid.org/0000-0002-0254-4322)
 
-**October 25, 2018 \(Victor Hugo Souza @ Aalto University\)**
+Os seguintes autores contribuíram significativamente para o conteúdo deste documento (em ordem alfabética):
 
+* [Aino Nieminen \(Aalto University, Finlândia\)](https://orcid.org/0000-0002-6841-7043)
+* [Dogu Baran Aydogan \(University of Eastern Finland, Finlândia\)](https://orcid.org/0000-0002-7840-3294)
+* [Jaakko Nieminen \(Aalto University, Finlândia\)](https://orcid.org/0000-0002-7826-3519)
+* [Prof. Jukka Sarvas \(Aalto University, Finlândia, In memoriam\)](https://scholar.google.com/citations?user=kv2x0AcAAAAJ&hl=en)
+* [Juuso Korhonen \(Aalto University, Finlândia\)](https://orcid.org/0000-0001-7802-7084)
+* [Matti Stenroos \(Aalto University, Finlândia\)](https://orcid.org/0000-0002-6386-6552)
+* [Mikko Nyrhinen \(Aalto University, Finlândia\)](https://orcid.org/0009-0005-0986-4416)
+* [Prof. Risto Ilmoniemi \(Aalto University, Finlândia\)](https://orcid.org/0000-0002-3340-2618)
+
+17 de julho de 2026
