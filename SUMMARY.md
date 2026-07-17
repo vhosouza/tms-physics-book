@@ -1,7 +1,6 @@
-# Table of contents
+# Sumário
 
-* [Preface](README.md)
-* [Book content](book-content.md)
-* [Electromagnetism](electromagnetism.md)
-* [References](references.md)
+* [Prefácio](README.md)
+* [Electromagnetism](electromagnetism_pt.md)
+* [Referências](references.md)
 

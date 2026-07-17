@@ -35,8 +35,7 @@ To compute the total electric field in the brain we can compute separately the $
 For the quasi static approximation we consider:
 
 1. No charge accumulation;
-2. For the given distance between coil and head there is no retarded time, in other words no phase difference between magnetic and electric fields;
-3. Other reasons that Aino knows.
+2. For the given distance between coil and head there is no retarded time, in other words no phase difference between magnetic and electric fields.
 
 Also we separate the solutions of $$\bf{E}_1$$ and  $$\bf{E}_2$$ in two. First, for  $$\bf{E}_1$$ we use Faraday's law, with the definition of magnetic vector potential:
 
@@ -241,7 +240,6 @@ $$
 $$
 
 If we take the conductivity of the brain as $$\sigma=0.4 / \Omega\text{-m}$$ and for $$\omega=10^5 \text{Hz}$$ , $$\delta^2=4.0 \times 10^5 \text{cm}^2$$, and thus $$(D/\delta)^2\ll1$$. According to Heller et al. (1992), this is the essence of the quasi-static approximation and leads to:
-
 $$
 \nabla^2{\bf{E}}= 0
 $$
