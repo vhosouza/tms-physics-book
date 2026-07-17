@@ -177,22 +177,31 @@ $$
 $$
 
 If one applies the curl to $$\text{i}$$ and $$\text{ii}$$ , following the mathematical identity that:
+
 $$
 \bf{\nabla}\times(\bf{\nabla}\times\bf{A}) = \bf{\nabla}(\bf{\nabla}\dot\bf{A}) + \nabla^2\bf{A}
 $$
+
 We get to:
+
 $$
 \nabla^2\bf{E}=\mu\epsilon \frac{\partial^2\bf{E}}{\partial^2 t} +\mu\sigma \frac{\partial\bf{E}}{\partial t}
 $$
+
 Which admit the plane-wave solution:
+
 $$
 \tilde{E}(z,t) = \tilde{E}_0e^{i(\tilde{k}z-\omega t)}
 $$
+
 where $$\tilde{k}$$ is the complex wave number written as:
+
 $$
 \tilde{k}^2=\mu\epsilon\omega^2 + i\mu\sigma\omega
 $$
+
 Be careful, the $$\omega$$ in this equation has nothing to do with $$\omega_0$$ presented above for the charge density $$\rho_0$$ solution. By taking the square root:
+
 $$
 \tilde{k}=k + i\kappa
 $$
@@ -201,27 +210,38 @@ $$
 k=\omega\sqrt{\frac{\epsilon\mu}{2}}\Bigg[\sqrt{1+\Big(\frac{\sigma}{\epsilon\omega}\Big)^2}+1\Bigg]^{1/2} \quad, \quad \kappa\equiv\omega\sqrt{\frac{\epsilon\mu}{2}}\Bigg[\sqrt{1+\Big(\frac{\sigma}{\epsilon\omega}\Big)^2}-1\Bigg]^{1/2}
 $$
 
-The attenuation comes from the imaginary part of $$\tilde{k}$$, in which reduces $$\tilde{E}(z,t)$$ with the increase in $$z$$ . Then:
+The attenuation comes from the imaginary part of $$\tilde{k}$$, in which reduces $$\tilde{E}(z,t)$$ with the increase in $$z$$. Then:
+
 $$
 \tilde{E}(z,t) = \tilde{E}_0e^{-\kappa z}e^{i(kz-\omega t)}
 $$
-Finally, the skin depth $$\delta$$ comes from the amount in which the electric field decays with the depth of the conductor by a factor of $$1/e$$ , and is:
+
+Finally, the skin depth $$\delta$$ comes from the amount in which the electric field decays with the depth of the conductor by a factor of $$1/e$$, and is:
+
 $$
 \delta=\frac{1}{\kappa}
 $$
+
 Finally, taking that:
+
 $$
 \omega_0 \equiv \frac{\sigma}{\varepsilon_0}
 $$
+
 And $$\omega/\omega_0\ll1$$, we get:
+
 $$
 \delta \equiv \frac{1}{2}\mu_0\sigma\omega
 $$
+
 And we can also write $$E(z,t)$$ as:
+
 $$
 \nabla^2{\bf{E}}= -(i\mu_0\sigma\omega + \mu_0\epsilon\omega^2)\bf{E}
 $$
+
 If we take the conductivity of the brain as $$\sigma=0.4 / \Omega\text{-m}$$ and for $$\omega=10^5 \text{Hz}$$ , $$\delta^2=4.0 \times 10^5 \text{cm}^2$$, and thus $$(D/\delta)^2\ll1$$. According to Heller et al. (1992), this is the essence of the quasi-static approximation and leads to:
+
 $$
 \nabla^2{\bf{E}}= 0
 $$
