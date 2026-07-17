@@ -7,19 +7,19 @@ description: Princípios físicos para a estimulação magnética transcraniana 
 Tudo começa com as quatro equações de Maxwell:
 
 $$
-\bf{\nabla}\times\bf{B} = \mu_0\bf{J} + \mu_0\varepsilon_0\frac{ \partial \bf{E}}{\partial t} \qquad \text{(Ampère's Law)}
+\bf{\nabla}\times\bf{B} = \mu_0\bf{J} + \mu_0\varepsilon_0\frac{ \partial \bf{E}}{\partial t} \qquad \text{(Lei de Ampère)}
 $$
 
 $$
-\bf{\nabla}\times\bf{E} = - \frac{\partial \bf{B}}{\partial t} \qquad \text{(Faraday's Law)}
+\bf{\nabla}\times\bf{E} = - \frac{\partial \bf{B}}{\partial t} \qquad \text{(Lei de Faraday)}
 $$
 
 $$
-\bf{\nabla}\cdot\bf{B} = 0 \qquad \text{(Gauss's Law)}
+\bf{\nabla}\cdot\bf{B} = 0 \qquad \text{(Lei de Gauss)}
 $$
 
 $$
-\bf{\nabla}\cdot\bf{E} = \frac{\rho}{{\varepsilon_0}} \qquad \text{(Colomb's Law)}
+\bf{\nabla}\cdot\bf{E} = \frac{\rho}{{\varepsilon_0}} \qquad \text{(Lei de Coulomb)}
 $$
 
 Para conhecer os efeitos da EMT, precisamos calcular o campo elétrico induzido no tecido cerebral. Considere uma corrente elétrica $$I(t)$$ que varia ao longo do tempo e percorre uma bobina distante, no espaço livre. A corrente variável gerará um campo magnético que também varia com o tempo. De acordo com a lei da indução de Faraday, o campo magnético variável induzirá no espaço um campo elétrico primário associado $$\bf{E}_1$$.
@@ -50,7 +50,7 @@ $$
 $$
 
 $$
-\bf{\nabla}\cdot\bf{E}_2 = \frac{\rho}{{\varepsilon_0}} \qquad \text{This holds everywhere in the brain}
+\bf{\nabla}\cdot\bf{E}_2 = \frac{\rho}{{\varepsilon_0}} \qquad \text{Válido em qualquer lugar do cérebro}
 $$
 
 No entanto, considerando a aproximação quase estática e que a condutividade do meio é muito baixa, $$\bf{B}_2$$ é desprezível e, portanto, temos:
@@ -150,7 +150,7 @@ $$
 $$
 
 $$
-\nabla^2V = - \frac{\rho}{\varepsilon_0} \qquad \text{Poisson's equation}
+\nabla^2V = - \frac{\rho}{\varepsilon_0} \qquad \text{Equação de Poisson}
 $$
 
 E o segundo caso:
@@ -160,7 +160,7 @@ $$
 $$
 
 $$
-\nabla^2V = 0 \qquad \text{Laplace's equation}
+\nabla^2V = 0 \qquad \text{Equação de Laplace}
 $$
 
 Para ambos os casos, há maneiras possíveis de resolver o potencial e, então, obter o campo elétrico secundário $$\bf{E}_2$$. Observe que $$\bf{E}_1$$ e $$\bf{E}_2$$ ocorrem ao mesmo tempo, portanto é possível haver uma separação de cargas que leve à existência de $$\bf{E}_2$$ sem acúmulo de cargas ao longo do tempo.
