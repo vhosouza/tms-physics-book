@@ -6,6 +6,11 @@ Este documento fornece uma visão geral dos conceitos físicos, matemáticos e c
 
 A disciplina de Introdução à Instrumentação Biomédica tem como objetivo desenvolver um material que permita compreender os conceitos básicos (e alguns avançados) de eletromagnetismo relacionados à EMT. Espera-se que os alunos se beneficiem deste material e consigam compreender melhor as vantagens e limitações da técnica, e assim, desenvolver soluções e ideias para responder à questões fundamentais à inovação tecnológica e clínica.
 
+Conteúdo:
+
+* [Eletromagnetismo da EMT](electromagnetism_pt.md)
+* [Referências](references.md)
+
 Docente responsável: 
 
 * [Victor Souza (Universidade de São Paulo, Brasil)](https://orcid.org/0000-0002-0254-4322)
